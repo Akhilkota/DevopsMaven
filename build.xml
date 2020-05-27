@@ -1,0 +1,7 @@
+<project name="mavenTest" default="WAR-build" basedir=".">
+	<description>mavenTest - Build file</description>
+
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+
+</project>
